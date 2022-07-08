@@ -8,4 +8,4 @@ you see this avatar, you know it is me.
 
 This is me in 2022:
 
-![2022](./assets/ME_2022.JPG)
+![2022](./assets/ME_2022.jpg)
